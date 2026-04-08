@@ -8,8 +8,8 @@ The pipeline uses Sentence-BERT (SBERT) embeddings to compare textual record fie
 
 Main components include:
 
-- Data preprocessing and text normalization
-- Semantic embedding generation with SBERT
+- Sentence structuring
+- Training/refining language models with SBERT
 - Similarity-based entity matching
 - Model evaluation against ground-truth matches
 
